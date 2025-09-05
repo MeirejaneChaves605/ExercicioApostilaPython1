@@ -18,6 +18,6 @@ um livro emprestado, usando temporariamente o livro sem
 armazená-lo (dependência).   
 
 
-<img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
+<img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExercicioApostilaPython1/blob/main/Imagem/Imagem1.jpg?raw=true.png">
 
                                  
